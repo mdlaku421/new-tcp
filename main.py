@@ -2643,13 +2643,13 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                             admin_message = """
 [C][B][FF0000]╔══════════╗
 [FFFFFF]✨ folow on Instagram   
-[FFFFFF]          ⚡ SB_GAMER  ❤️  
+[FFFFFF]          ⚡ MARUF BHAI  ❤️  
 [FFFFFF]                   thank for support 
 [FF0000]╠══════════╣
-[FFD700]⚡ OWNER : [FFFFFF]SB_GAMER     
+[FFD700]⚡ OWNER : [FFFFFF]MARUF BHAI     
 [FFD700]✨ Name on instagram : [FFFFFF] --------❤️  
 [FF0000]╚══════════╝
-[FFD700]✨ Developer —͟͞͞ </> SB_GAMER ❄️  ⚡
+[FFD700]✨ Developer —͟͞͞ </> MARUF BHAI ❄️  ⚡
 """
                             await safe_send_message(response.Data.chat_type, admin_message, uid, chat_id, key, iv)
 
