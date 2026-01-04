@@ -1619,7 +1619,7 @@ async def GeNeRaTeAccEss(uid , password):
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "close"}
     data = {
-        "uid": " '4373451022",
+        "uid": " "4373451022",
         "password": "4EF2CD36A50A2378755FFEDDFF7B70A8A05D4FBFA613AEA90010F30981C69034",
         "response_type": "token",
         "client_type": "2",
