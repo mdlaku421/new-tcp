@@ -3719,7 +3719,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                             footer ="""[00FFFA]╔═•══•════════════════•══•═╗
 [FF1493]║ ⚡ [B][FFFF00]BOT INFO[FFFF00][/B] ⚡
 [00FFFA]║
-[FFFF00]║ 👤 Developer    :: [FF1493]SB_GAMER
+[FFFF00]║ 👤 Developer    :: [FF1493]MARUF BHAI
 [32CD32]║ 💻 Status        :: [32CD32]ONLINE
 [1E90FF]║ 🛠 Version      :: [1E90FF]ENHANCED V2
 [00FFFA]╚═•══•════════════════•══•═╝"""
@@ -3795,7 +3795,7 @@ async def MaiiiinE():
 
     os.system('clear')
     print("Initializing SB_GAMER Bot...")
-    print("┌────────────────────────────────────┐")
+    print("┌─────────────────MARUF BHAI───────────┐")
     print("│ █████████████░░░░░░░░░░░░░░░░░░ │")
     print("└────────────────────────────────────┘")
     time.sleep(0.5)
@@ -3808,7 +3808,7 @@ async def MaiiiinE():
     os.system('clear')
 
     print("🤖 SB_GAMER BOT - ONLINE")
-    print("┌────────────────────────────────────┐")
+    print("┌───────────MARUF BHAI─────────────────┐")
     print("│ ██████████████████████████████████ │")
     print("└────────────────────────────────────┘")
     print(f"🔹 UID: {TarGeT}")
@@ -3823,11 +3823,9 @@ async def MaiiiinE():
     await asyncio.sleep(1)
 
     os.system('clear')
-    print(render('SB_GAMER', colors=['white', 'green'], align='center'))
-    print('')
+    print(render('SB_GAMER', colors=['white', 'green'], align='ceMARUF BHAI    print('')
     print("🤖 SB_GAMER BOT - ONLINE")
-    print(f"🔹 UID: {TarGeT}")
-    print(f"🔹 Name: {acc_name}")
+    print(f"🔹 UID: {TaMARUF BHAI    print(f"🔹 Name: {acc_name}")
     print(f"🔹 Status: 🟢 READY")
     
 
@@ -3835,7 +3833,7 @@ async def MaiiiinE():
 def handle_keyboard_interrupt(signum, frame):
     """Clean handling for Ctrl+C"""
     print("\n\n🛑 Bot shutdown requested...")
-    print("👋 Thanks for using SB_GAMER BOT")
+    print("👋 Thanks for using MARUF BHAI BOT")
     sys.exit(0)
 
 # Register the signal handler
@@ -3847,7 +3845,7 @@ async def StarTinG():
             await asyncio.wait_for(MaiiiinE() , timeout = 7 * 60 * 60)
         except KeyboardInterrupt:
             print("\n\n🛑 Bot shutdown by user")
-            print("👋 Thanks for using SB_GAMER!")
+            print("👋 Thanks for using MARUF BHAI)
             break
         except asyncio.TimeoutError: print("Token ExpiRed ! , ResTartinG")
         except Exception as e: print(f"ErroR TcP - {e} => ResTarTinG ...")
