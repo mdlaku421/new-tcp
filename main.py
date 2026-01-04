@@ -1619,7 +1619,7 @@ async def GeNeRaTeAccEss(uid , password):
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "close"}
     data = {
-        "uid": " "4373451022",
+        "uid": "4373451022",
         "password": "4EF2CD36A50A2378755FFEDDFF7B70A8A05D4FBFA613AEA90010F30981C69034",
         "response_type": "token",
         "client_type": "2",
@@ -3749,7 +3749,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
 
 
 async def MaiiiinE():
-    Uid , Pw = '4380746809','BILLU_BR7VF6ZQEUA'
+    Uid , Pw = '4373451022','4EF2CD36A50A2378755FFEDDFF7B70A8A05D4FBFA613AEA90010F30981C69034'
     
 
     open_id , access_token = await GeNeRaTeAccEss(Uid , Pw)
