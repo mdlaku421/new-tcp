@@ -127,14 +127,9 @@ def insta_info(username):
             "raw": data
         }), 500
         
-def find_free_port(start=8080, end=65535):
-    for port in range(start, end):
-        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-            if s.connect_ex(('0.0.0.0', port)) != 0:
-                return port
-    raise RuntimeError("No free port available")
+import os
 
 if __name__ == "__main__":
-    port = find_free_port()
+    port = int(os.environ.get("PORT", 8000))
     print(f"Starting server on port {port}")
     app.run(host="0.0.0.0", port=port, debug=False)
